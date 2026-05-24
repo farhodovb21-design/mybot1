@@ -1,4 +1,4 @@
-python-telegram-bot==21.6
+python-telegram-bot==22.1
 groq>=1.0.0
 python-dotenv==1.0.0
 httpx
